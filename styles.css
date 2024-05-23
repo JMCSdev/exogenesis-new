@@ -451,15 +451,11 @@
     height: 525px;
     width: 400px;
     border-radius: 4px;
-    background-image: linear-gradient(
-        to bottom,
-        rgba(0, 0, 0, 0) 0%,
-        rgba(17, 17, 17, 0.6) 100%
-      ),
-      url('/F1\ in\ Schools\ Sketches\ 1.jpeg');
+    background: url('/F1\ in\ Schools\ Sketches\ 1.jpeg');
     background-size: cover;
     position: relative;
     color: #fff;
+    filter: saturate(0.7)
   }
   
   .services__card:before {
