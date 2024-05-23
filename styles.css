@@ -7,7 +7,7 @@
   
   .navbar {
     background: #131313;
-    height: 80px;
+    height: 96px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -51,7 +51,7 @@
   
   .navbar__menu {
     display: flex;
-    align-items: center;
+    align-items: center;z
     list-style: none;
     text-align: center;
   }
