@@ -455,7 +455,7 @@
     background-size: cover;
     position: relative;
     color: #fff;
-    filter: saturate(0.7)
+    filter: saturate(50%)
   }
   
   .services__card:before {
