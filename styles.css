@@ -455,7 +455,6 @@
     background-size: cover;
     position: relative;
     color: #fff;
-    filter: saturate(50%)
   }
   
   .services__card:before {
@@ -463,7 +462,7 @@
   }
   
   .services__card:nth-child(2) {
-    background: url('poll.png');
+    background: #b5b1ae, url('poll.png');
   }
   
   .services__card h2 {
